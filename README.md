@@ -1,16 +1,14 @@
-### Hi there 👋
+<center>
 
-<!--
-**qja713/qja713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=NoCle's%20Github!&fontSize=70)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qja713)](https://github.com/qja713/github-readme-stats)
+
+## Solved Profile
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qja713)](https://solved.ac/qja713)
+</center>
