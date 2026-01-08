@@ -6,7 +6,9 @@
 
 ## GitHub stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qja713)](https://github.com/qja713/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=qja713&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=qja713&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=qja713&layout=compact&theme=gruvbox)
 
 ## Solved Profile
 
